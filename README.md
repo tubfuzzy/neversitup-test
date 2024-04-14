@@ -1,4 +1,4 @@
-## Lasted project structure
+## Latest project structure
 <pre>
 ├── README.md
 ├── cmd
